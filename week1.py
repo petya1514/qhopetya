@@ -1,3 +1,3 @@
-# Display message to screen
-print("Welcome to COM411")
-print("In week 1 we will learn...")
+# print ("Enter your name:")
+username = input ("enter your name:")
+print ("My name is ", username)
