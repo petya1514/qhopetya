@@ -1,0 +1,9 @@
+eye = input("Enter a symbol for the eye (e.g. o): ")
+
+print()
+
+print("###########")
+print(f"#  {eye}   {eye}  #")
+print("#    #     #")
+print("#   ---    #")
+print("###########")
